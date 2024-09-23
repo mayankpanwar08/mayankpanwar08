@@ -4,11 +4,16 @@ Full Stack Developer | MERN Stack Enthusiast | Python Learner
 I'm a B.Tech graduate in Computer Science and Engineering, with a passion for full-stack web development and data-driven projects. I specialize in building CRUD applications using the MERN stack and have hands-on experience with MySQL for database management. I'm constantly learning and expanding my knowledge in areas like Python and MERN STACK.
 
 ## 🔧 Technologies & Tools:
-Languages: JavaScript (ES6+), C/C++, Python
-Frontend: HTML, CSS, Bootstrap, React.js
-Backend: Node.js, Express.js
-Databases: MongoDB, MySQL
-Tools: Git, Postman, REST APIs, EJS Templating
+## Languages: 
+JavaScript (ES6+), C/C++, Python
+## Frontend: 
+HTML, CSS, Bootstrap, React.js
+## Backend: 
+Node.js, Express.js
+## Databases: 
+MongoDB, MySQL
+## Tools: 
+Git, Postman, REST APIs, EJS Templating
 
 ## 📚 Projects:
 Next-Gen E-commerce: Building a recommendation engine using MERN stack and machine learning for a data-driven product experience.
