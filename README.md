@@ -1,13 +1,13 @@
 ## Hi there, I'm Mayank Panwar 👋
-Full Stack Developer | MERN Stack Enthusiast | Python Learner
+Full Stack Developer | MERN Stack and Database Enthusiast | Python Learner
 
-I'm a B.Tech graduate in Computer Science and Engineering, with a passion for full-stack web development and data-driven projects. I specialize in building CRUD applications using the MERN stack and have hands-on experience with MySQL for database management. I'm constantly learning and expanding my knowledge in areas like Python and MERN STACK.
+I am a passionate B.Tech graduate specializing in Computer Science and Engineering. Currently working as a Software Trainee at Eastern Software Solutions, I focus on database management and full-stack development using modern tools like the MERN stack and Oracle SQL. My continuous learning journey includes exploring React.js and PL/SQL for building robust, scalable applications. 
 
 ## 🔧 Technologies & Tools:
 * Languages: JavaScript (ES6+), C/C++, Python
 * Frontend: HTML, CSS, Bootstrap, React.js
 * Backend: Node.js, Express.js
-* Databases: MongoDB, MySQL
+* Databases: MongoDB, MySQL, Oracle SQL, PL/SQL
 * Tools: Git, Postman, REST APIs, EJS Templating
 
 ## 📚 Projects:
@@ -15,12 +15,13 @@ I'm a B.Tech graduate in Computer Science and Engineering, with a passion for fu
 * CRUD Web App: Created a full-fledged CRUD application using the MERN stack and integrated it with MySQL for data management.
 * To-Do List Web Application: Developed a task management web app using Node.js, Express, and MongoDB with a responsive UI.
 ## 👨‍💻 Certifications:
-* Python Programming (Coursera)
-* Web Development Bootcamp (Udemy)
-* Summer Training: Delhi International Airport (Wipro Ltd)
+**Oracle Database SQL Certified Associate (1Z0-071)** – Udemy  
+**Programming in Python** – Coursera  
+**Web Development Bootcamp** – Udemy  
+**Summer Training:** Delhi International Airport (Wipro Ltd)
 ## 🌱 I’m currently learning:
 * Advanced React Concepts
-* Python full-stack development 
+* PL/SQL 
 ## 📫 Contact me:
 * Email: mayankpanwar08@gmail.com
 * LinkedIn: www.linkedin.com/in/mayank-panwar-192ba2214
